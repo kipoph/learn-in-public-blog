@@ -1,0 +1,17 @@
+:root{
+
+}
+header{
+    width: 100vw;
+    text-align: center;
+}
+
+.nav-bar li{
+    list-style: none;
+    
+    
+}
+.nav-link{
+    text-decoration:none;
+    color: black;
+}
