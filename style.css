@@ -15,3 +15,8 @@ header{
     text-decoration:none;
     color: black;
 }
+
+.main{
+    width:90vw;
+    margin:auto;
+}
